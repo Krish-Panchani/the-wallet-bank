@@ -1,0 +1,30 @@
+body{
+    background-color: #d4eff1;
+    font-family: oswald;
+    text-transform: uppercase;
+}
+
+.mainText{
+    top: 60%;
+    right: 20%;
+}
+
+.bg_color_2{
+background-color: #c7e6e7;
+}
+
+
+@media only screen and (max-width:767px) {
+
+    .mainText{
+        top: 25%;
+        right: 30%;
+    }
+}
+@media only screen and (max-width:1023px) {
+
+    .mainText{
+        top: 25%;
+        right: 30%;
+    }
+}
