@@ -1,5 +1,5 @@
 # The-Wallet-Bank
-The Wallet Bank website, Created for Rao Code-Fest V2.0. Conducted on 11 March, 2023.
+The Wallet Bank website, Created for Rao Code-Fest V2.0. Conducted on 11 March, 2023. In this website, Tailwind CSS is used for CSS framework.
 
 * ### For view website --> [Click Here](https://krish-panchani.github.io/the-wallet-bank/ "The Wallet Bank") <--
 
