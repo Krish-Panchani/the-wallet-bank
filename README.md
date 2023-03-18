@@ -1,17 +1,18 @@
 # The-Wallet-Bank
-The Wallet Bank website, Created for Rao Code-Fest V2.0. Conducted on 11 March, 2023. In this website, Tailwind CSS is used for CSS framework.
+The Wallet Bank website, Created for Rao Code-Fest V2.0. </br> Conducted on 11 March, 2023. </br> In this website, Tailwind CSS is used for CSS framework.
 
 * ### For view website --> [Click Here](https://krish-panchani.github.io/the-wallet-bank/ "The Wallet Bank") <--
 
-# Web Design Problem - 1 : Statue of Unity
+# Web Design Problem - 3 : The Wallet Bank
 
 
 ## The Problem statement was given as below
 
 ### Problem
-Sardar Vallabhbhai Patel Rashtriya Ekta Trust (SVPRET) is looking for a web designer to redesign the website of ‘Statue of Unity’. The purpose of redesigning the website is to improve user experience, which will allow the users to access the information easily from the website to plan their visit better. As ‘Statue of Unity’ is the largest monument in the world, the design of the website should give a feel of how grandeur the monument would be in reality.
+Design a web page as shown in the image. You can choose colours using a colour picker or similar tools, and get the nearest fonts as used in the image. You can find similar stock photos from popular platforms like freepik, pexels, unsplash etc or any of your choice.
 
-The Website they want is a “Single Page” or “1 Page” Website. You must provide the Navigation that will take the user to the appropriate section on click. Moreover, the website should be responsive on all devices i.e. Mobile, Tablet, Laptop & Desktop.
+
+![design-codefest](https://user-images.githubusercontent.com/74005086/226108203-057d4169-e763-4528-8514-729b840f7a0f.jpg)
 
 ### Task
 
